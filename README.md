@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yaseen</h1>
 <h3 align="center">A passionate Full Stack Developer (MERN Technology) from India</h3>
 
-<h1 align="center"><a href="https://yaseen.website" target="blank">Launch My Website</a></h1>
+<h1 align="center"><a href="https://yaseen.website" target="_blank">Launch My Website</a></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-wd&label=Profile%20views&color=0e75b6&style=flat" alt="yash-wd" /> </p>
 
@@ -15,7 +15,7 @@
 
 < > </p>
  Full Stack Web Developer (MERN Technology) </p>
- Working on Freelancing Projects </p>
+ Working on Dynamic Web Applications </p>
 < / >
 
 <br>
